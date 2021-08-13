@@ -23,7 +23,7 @@
     "js-cookie": "^2.2.1",
     "localforage": "^1.7.3",
     "mobile-detect": "^1.4.4",
-    "next": "^9.3.4",
+    "next": "^11.1.0",
     "next-compose-plugins": "^2.2.0",
     "next-cookies": "^2.0.3",
     "next-fonts": "^1.0.3",
